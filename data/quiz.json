@@ -1,0 +1,180 @@
+[
+  {
+    "title": "Python Basic #1",
+    "image": "no-image.jpg",
+    "description": "Python helnii anhan shatnii medleg shalgah test",
+    "owner": "",
+    "tags": ["python", "coding", "orgil"],
+    "category": "61c1878b8f62d11e60874557",
+    "createUser": "61c1fa5c487a0968d14cc678",
+    "questions": [
+      {
+        "question": "A string is immutable in Python?",
+        "image": "no-image.jpg",
+        "answers": ["True", "False"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "A string Pythion?",
+        "image": "no-image.jpg",
+        "answers": ["a", "b", "c", "D"],
+        "correctAnswer": 2
+      }
+    ]
+  },
+  {
+    "title": "English Basic #1",
+    "image": "no-image.jpg",
+    "description": "Angli helnii anhan shatnii tuvshin togtooh test #1",
+    "owner": "",
+    "tags": ["english", "improveyourlanguage", "orgil"],
+    "category": "61c1878b8f62d11e60874558",
+    "createUser": "61c1fa5c487a0968d14cc678",
+    "questions": [
+      {
+        "question": "Excuse me, where is the post office? I'm sorry, I ______ English.",
+        "image": "no-image.jpg",
+        "answers": [
+          " am not speaking",
+          "speak not",
+          "no speak",
+          "don't speak",
+          "do not speaking"
+        ],
+        "correctAnswer": 2
+      }
+    ]
+  },
+  {
+    "title": "Html knowledge quiz",
+    "image": "no-image.jpg",
+    "description": "Html anhan shatnii medleg",
+    "owner": "",
+    "tags": ["html", "coding", "orgil"],
+    "category": "61c1878b8f62d11e60874557",
+    "createUser": "61c1fa5c487a0968d14cc678",
+    "questions": [
+      {
+        "question": "What tag is used to define an image – or add an image – to an HTML page?",
+        "image": "no-image.jpg",
+        "answers": [
+          "am not speaking",
+          "speak not",
+          "no speak",
+          "don't speak",
+          "do not speaking"
+        ],
+        "correctAnswer": 2
+      }
+    ]
+  },
+  {
+    "title": "JavaScript Knowledge Quiz",
+    "image": "no-image.jpg",
+    "description": "Javascriptiin anhan shatnii medleg",
+    "owner": "",
+    "tags": ["js", "coding", "javascript"],
+    "category": "61c1878b8f62d11e60874557",
+    "createUser": "61c1fa5c487a0968d14cc678",
+    "questions": [
+      {
+        "question": "What is the element used – and hidden – in code that explains things and makes the content more readable?",
+        "image": "no-image.jpg",
+        "answers": [
+          "am not speaking",
+          "speak not",
+          "no speak",
+          "don't speak",
+          "do not speaking"
+        ],
+        "correctAnswer": 2
+      }
+    ]
+  },
+  {
+    "title": "CSS Knowledge Quiz",
+    "image": "no-image.jpg",
+    "description": "Css anhan shatnii medleg",
+    "owner": "",
+    "tags": ["js", "coding", "javascript"],
+    "category": "61c1878b8f62d11e60874557",
+    "createUser": "61c1fa5c487a0968d14cc678",
+    "questions": [
+      {
+        "question": "What is the CSS property that is used to specify the edges of a table?",
+        "image": "no-image.jpg",
+        "answers": ["margins", "Borders", "Fill", "Boxes", "do not speaking"],
+        "correctAnswer": 2
+      }
+    ]
+  },
+  {
+    "title": "English Basic #2",
+    "image": "no-image.jpg",
+    "description": "Angli helnii anhan shatnii tuvshin togtooh test #1",
+    "owner": "",
+    "tags": ["english", "improveyourlanguage", "orgil"],
+    "category": "61c1878b8f62d11e60874558",
+    "createUser": "61c1fa5c487a0968d14cc678",
+    "questions": [
+      {
+        "question": "What is the windiest month?",
+        "image": "no-image.jpg",
+        "answers": [
+          " am not speaking",
+          "speak not",
+          "no speak",
+          "don't speak",
+          "do not speaking"
+        ],
+        "correctAnswer": 2
+      }
+    ]
+  },
+  {
+    "title": "English Basic #3",
+    "image": "no-image.jpg",
+    "description": "Angli helnii anhan shatnii tuvshin togtooh test #2",
+    "owner": "",
+    "tags": ["english", "improveyourlanguage", "orgil"],
+    "category": "61c1878b8f62d11e60874558",
+    "createUser": "61c1fa5c487a0968d14cc678",
+    "questions": [
+      {
+        "question": "______? He is fifteen.",
+        "image": "no-image.jpg",
+        "answers": [
+          " am not speaking",
+          "speak not",
+          "no speak",
+          "don't speak",
+          "do not speaking"
+        ],
+        "correctAnswer": 2
+      }
+    ]
+  },
+  {
+    "title": "English Basic #4",
+    "image": "no-image.jpg",
+    "description": "Angli helnii anhan shatnii tuvshin togtooh test #4",
+    "owner": "",
+    "tags": ["english", "improveyourlanguage", "orgil"],
+    "category": "61c1878b8f62d11e60874558",
+    "createUser": "61c1fa5c487a0968d14cc678",
+    "questions": [
+      {
+        "question": "______? I like football and cycling.",
+        "image": "no-image.jpg",
+        "answers": [
+          " am not speaking",
+          "speak not",
+          "no speak",
+          "don't speak",
+          "do not speaking"
+        ],
+        "correctAnswer": 2
+      }
+    ]
+  }
+]

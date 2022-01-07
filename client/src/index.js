@@ -1,0 +1,15 @@
+import React from "react";
+import ReactDOM from "react-dom";
+import "./index.css";
+import "bulma/css/bulma.css";
+import App from "./App";
+
+ReactDOM.render(
+  <React.StrictMode>
+    <div className="bg-black">
+    <App />
+    </div>
+  
+  </React.StrictMode>,
+  document.getElementById("root")
+);

@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "61c1fa5c487a0968d14cc678",
+    "name": "admin123",
+    "email": "test@gmail.com",
+    "image": "default.jpg",
+    "role": "user",
+    "password": "test123"
+  },
+  {
+    "_id": "61c1fd597e0ebe7067914499",
+    "name": "naraa",
+    "email": "naraa@gmail.com",
+    "image": "default.jpg",
+    "role": "user",
+    "password": "naraa123"
+  },
+  {
+    "_id": "61c2021591d39c3df792e05c",
+    "name": "orgil",
+    "email": "orgil@gmail.com",
+    "image": "default.jpg", 
+    "role": "admin",
+    "password": "orgil123"
+  }
+]
